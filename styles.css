@@ -1,0 +1,90 @@
+*{
+    background-color: black;
+    
+    
+}
+
+#titulo{
+    text-align: center;
+    margin:110px auto; ;
+    /* background-color: blue; */
+    color: white;
+    font-size: large 100%;
+    
+}
+
+.musica{ 
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px auto; width: 320px;
+    
+    
+}
+
+.enlace{
+    background-color: greenyellow;
+    display:flex; 
+    justify-content: center;
+    align-items:center;
+    text-align:center;
+    margin:1px 668px; width: 100px; height: 30px ;
+    /* text-transform: uppercase; */
+    margin-right: 300px;
+    border-radius: 20px;
+    
+
+   
+
+    
+
+
+
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 200px auto; width: 320px;
+    border-radius: 30px;
+   
+    
+}
+
+
+h1{
+    text-align: center;
+    margin:110px auto; ;
+    /* background-color: blue; */
+    color: white;
+    font-size: large 100px;
+
+}
+
+p{
+    /* text-align: center;
+    margin:4px auto ; */
+    color: white;
+}
+
+.form{
+    color: white;
+    width: 180px;
+    clear: both;
+    border-color: white;
+}
+
+.form input{
+    width: 100%;
+    clear: both;
+    color: white;
+}
+
+
+#envio{
+    color: black;
+    background-color: white;
+}
